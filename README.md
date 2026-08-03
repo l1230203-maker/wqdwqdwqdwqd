@@ -1,3 +1,3 @@
-<a href="https://githubusercontent.com" download>
+<a href="" download>
    📥 Click here to download the Kasane Teto Skin
 </a>
